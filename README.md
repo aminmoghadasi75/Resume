@@ -28,7 +28,7 @@ At Mofid Securities, I excelled as a Customer Service Expert, marketing the comp
 - **Software:** Eviews, MATLAB, LaTeX, Git, Linux
 - **Financial Analysis:** Fundamental analysis, Technical analysis, Financial statement analysis
 
-## Work Experience Institutions
+## Academic Experience Institutions
 - University of Sistan and Baluchestan
 - Kharazmi University of Tehran
 
