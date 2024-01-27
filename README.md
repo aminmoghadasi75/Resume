@@ -1,4 +1,4 @@
-# Mohammadamin Moghadasi - Data Scientist
+# Mohammadamin Moghadasi - Data Scientist - Machine Learning
 
 Welcome to my professional portfolio! This repository contains details about my experience, skills, and projects as a data scientist.
 
